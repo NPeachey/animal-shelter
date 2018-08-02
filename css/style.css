@@ -1,4 +1,4 @@
-.before {
+.cat {
   margin: 12px;
   border: 4px solid green;
   padding: 4px;
@@ -6,7 +6,7 @@
   width: 300px;
   float: left;
 }
-.during {
+.reptiles{
   margin: 12px;
   border: 4px solid green;
   padding: 4px;
@@ -14,7 +14,15 @@
   width: 300px;
   float: left;
 }
-.after{
+.dog{
+  margin: 12px;
+  border: 4px solid green;
+  padding: 4px;
+  background-color: blue;
+  width: 300px;
+  float: left;
+}
+.other{
   margin: 12px;
   border: 4px solid green;
   padding: 4px;
